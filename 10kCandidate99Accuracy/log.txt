@@ -1,0 +1,17 @@
+processed 100000 episodes
+processed 200000 episodes
+processed 300000 episodes
+processed 400000 episodes
+processed 500000 episodes
+processed 600000 episodes
+processed 700000 episodes
+processed 800000 episodes
+processed 900000 episodes
+processed 1000000 episodes
+calculating global functions
+trying behavior policy
+simulated behavior return 1.1780458256022643
+setting random seed as 1
+candidate size 10000 starts at 0 and ends at 10000, safety size 2000 starts at 10000 and ends at 12000
+(8_w,16)-aCMA-ES (mu_w=4.8,w_1=32%) in dimension 72 (seed=1, Fri Dec 11 13:12:45 2020)
+fitness at iteration 1 -998.2854761435254
